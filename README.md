@@ -50,7 +50,7 @@ The project includes:
 
 ## How to Run
 1. Clone the repository:
-   git clone [https://github.com/your-username/electricity-bill-regression.git](https://github.com/your-username/electricity-bill-regression.git)
+   git clone (https://github.com/ShelkeRajni/Machine-learning-)
 2. Install dependencies:
    pip install pandas numpy matplotlib seaborn scikit-learn
 3. Run the simple_linear_regression (1).ipynb notebook or Python script to see the analysis and plots[cite: 1].
